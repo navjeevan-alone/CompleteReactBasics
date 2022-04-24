@@ -1,0 +1,23 @@
+{
+    "blogs":[
+      {
+        "title": "First Blog",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda quae quam sunt sed officiis ipsa exercitationem, nisi molestias natus veritatis dolore est voluptates quod magnam. ",
+        "author": "jim",
+        "id": 1
+      },
+      {
+        "title": "Latest News",
+        "body": " Placeat in maiores at nam minima sed hic. Commodi cumque tenetur ipsum magni?Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda quae quam sunt sed officiis ipsa exercitationem, nisi molestias natus veritatis dolore est voluptates quod magnam. ",
+        "author": "diana",
+        "id": 2
+      },
+      {
+        "title": "My friend",
+        "body": "Dolore quaerat et eaque dolores, ad debitis recusandae quidem!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda quae quam sunt sed officiis ipsa exercitationem, nisi molestias natus veritatis dolore est voluptates quod magnam.",
+        "author": "jim",
+        "id": 3
+        
+      }
+    ]
+}
