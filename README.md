@@ -4,7 +4,7 @@
 In this project I used used every react basic concept
 You can use this project for basic React Code practice
 
-## View live demo
+## View live demo (View only)
 
 [Codesandbox](https://yg7too.csb.app/)
 
