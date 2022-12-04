@@ -3,7 +3,6 @@
 **Made with react v@17** and **react router v@6**
 In this project I used used every react basic concept
 You can use this project for basic React Code practice
-**Note** You will need to install `node_modules` and `json-server` to run this project on your local computer
 
 ## View live demo
 
